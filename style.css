@@ -1,0 +1,62 @@
+header{
+    font-family: helvetica;
+    width: 100%;
+    color: #3AB0FF;
+    display: inline;
+}
+
+body{
+    background-color: #F9F2ED;
+    font-family: "Century Gothic";
+    margin: 0;
+    padding: 0;
+}
+
+.jumbotron {
+    font-size: 15px;
+    padding: 20px;
+    background-color: #3AB0FF;
+    text-align: center;
+    color: white;
+    position: relative;
+    font-family: "Century Gothic";
+ }
+
+ img{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+ }
+
+ h2{
+    font: size 12px;
+    text-align: center;
+ }
+
+ h3{
+   color: #FFB562;
+ }
+
+ a{
+   color: #3AB0FF;
+ }
+
+ .kanan{
+    float: right;
+    width: 300px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-right: 600px;
+ }
+
+ .kiri{
+    float: left;
+    width: 700px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+ }
